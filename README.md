@@ -1,0 +1,1 @@
+My notes from the Aalto University's Python for Scientific Computing course.
